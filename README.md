@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ... website design 
 - 📫 How to reach me ... sumitnegi819@gmail.com
 - 😄 Pronouns: ... sumit 
-- ⚡ Fun fact: ...
+
 
 <!---
 Emptyxom/Emptyxom is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
